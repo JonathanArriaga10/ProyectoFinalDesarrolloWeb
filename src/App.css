@@ -1,0 +1,37 @@
+/* Cuerpo general del App.js */
+body {
+  font-family: 'Georgia', 'Times New Roman', serif;
+  background-color: #9BBEC8;
+  margin: 0;
+  padding: 0;
+  color:darkslategray;
+}
+
+/* Contenedor General */
+.container {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+/* Menu  */
+button {
+  background: none;
+  border: none;
+  color: midnightblue;
+  cursor: pointer;
+  font-size: 35px;
+  font-weight: 500;
+  background-color: #DDF2FD;
+  margin: 0 auto;
+}
+
+/* Formato del texto dentro del Contenedor */
+.content {
+  font-size: 20px;
+  line-height: 1.6;
+}

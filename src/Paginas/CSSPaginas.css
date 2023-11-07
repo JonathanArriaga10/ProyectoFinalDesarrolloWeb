@@ -1,0 +1,41 @@
+/* Contenedor Principal */
+.Principal {
+    max-width: 700px;
+    margin: 2%;
+    padding: 20px;
+    background-color: #f9f9f9;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Para Títulos Generales */
+h2 {
+    text-align: center;
+}
+
+/* Para Títulos Secundarios */
+h3 {
+    color: midnightblue;
+}
+
+/* Para el texto en general */
+p {
+    text-align: justify;
+}
+
+/* Imagenes que se muestren junto al textos */
+.imagen{
+    display: inline-block;
+    margin-top: 30px;
+    margin-left: 30px;
+    text-align: center;
+
+}
+
+/* Textos que se muestren junto a imagenes */
+.textodiv{
+    display: inline-block;
+    height: 5%;
+    width: 90%;
+}

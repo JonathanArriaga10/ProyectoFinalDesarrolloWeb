@@ -1,0 +1,35 @@
+/* Estilos para el menú */
+ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding: 20;
+    margin: 0;
+}
+  
+.menu {
+    margin: 10px;
+}
+  
+li {
+    margin-right: 5px;
+}
+  
+button {
+    background: none;
+    border: none;
+    color: #121212;
+    cursor: pointer;
+    font-weight: bold;
+}
+  
+button:hover {
+    text-decoration: underline;
+    text-decoration-color: #427D9D;
+}
+
+.menu{
+
+    width: 700px;
+
+}
